@@ -4,8 +4,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/batman47steam/batman47steam/output/github-contribution-grid-snake.svg">
 </picture>
 
-**修卡的敌人，人类的朋友 !**
 
-**Enemies of Shocker, friends of humans !**
+**Эй, приятель, обмануть друга можно, но не обманывай и себя, это важно.**
 
-**Shocker no teki, ningen no tomodachi !**
+**Brother, it's okay to deceive buddies, don't deceive yourself.**
+
+**兄弟、仲間に嘘をつく、自分自身を欺くな。**
+
+**戏友可，勿戏本心也。**
