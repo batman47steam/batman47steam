@@ -5,10 +5,10 @@
 </picture>
 
 
-**Эй, приятель, обмануть друга можно, но не обманывай и себя, это важно.**
+**Эй, приятель, обмануть друга можно, но не обманывай и себя, это важно**
 
-**Brother, it's okay to deceive buddies, don't deceive yourself.**
+**Brother, it's okay to deceive buddies, don't deceive yourself**
 
-**兄弟、仲間に嘘をつく、自分自身を欺くな。**
+**兄弟、仲間に嘘をつく、自分自身を欺くな**
 
-**戏友可，勿戏本心也。**
+**戏友可，勿戏本心也**
